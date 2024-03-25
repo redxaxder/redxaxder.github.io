@@ -1,0 +1,3 @@
+[submodule "caravan"]
+	path = caravan
+	url = git@github.com:redxaxder/caravan.git
